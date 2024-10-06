@@ -4,7 +4,7 @@
 + 마카티 공통페이지 리액트 퍼블리싱입니다. (jsx, scss)
 
 ```
-- git clone http://git.uinetworks.kr/design/makati_template.git
+- git clone https://github.com/termisam005/Philippine-makiti.git
 - npm install
 - npm start
 ```
